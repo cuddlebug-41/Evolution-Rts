@@ -204,3 +204,6 @@ This repository serves as the official landing page for Evolution RTS. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Evolution RTS today!**
+
+---
+**Last updated:** 2026-11-08 09:51:18 UTC
