@@ -206,4 +206,4 @@ This repository serves as the official landing page for Evolution RTS. The softw
 **Get the most recent version of Evolution RTS today!**
 
 ---
-**Last updated:** 2026-11-11 10:19:26 UTC
+**Last updated:** 2026-11-11 18:22:23 UTC
